@@ -85,6 +85,8 @@ section {
   display: block;
   -webkit-animation: scaleAnim 1s ease-in-out;
           animation: scaleAnim 1s ease-in-out;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 @-webkit-keyframes scaleAnim {
   0% {
