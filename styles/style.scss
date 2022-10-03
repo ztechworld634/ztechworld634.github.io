@@ -572,16 +572,5 @@ section {
     span {
       color: var(--color-secondary);
     }
-    .bg-text {
-      position: absolute;
-      top: -25%;
-      left: 22%;
-      color: var(--color-grey-5);
-      transition: all 0.4s ease-in-out;
-      z-index: -1;
-      font-weight: 800;
-      font-size: 6.3rem;
-      white-space: nowrap;
-    }
   }
 }
